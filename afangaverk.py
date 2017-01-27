@@ -16,3 +16,5 @@ fh.close()
 fh =open("text.txt","r")
 
 print(fh.read())
+
+fh.close()
