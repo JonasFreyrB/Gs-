@@ -4,3 +4,5 @@ fh.write("Þetta er prufa ")
 fh.write("Má ég fara heim ")
 
 fh.close()
+
+fh = open("text.txt", "a")
