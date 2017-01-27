@@ -10,3 +10,5 @@ fh = open("text.txt", "a")
 fh.write("Þetta er að bætast við ")
 fh.write("Þetta er líka bæting ")
 fh.write("Forritun er skemmtileg")
+
+fh.close()
