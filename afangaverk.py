@@ -14,3 +14,5 @@ fh.write("Forritun er skemmtileg")
 fh.close()
 
 fh =open("text.txt","r")
+
+print(fh.read())
